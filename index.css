@@ -1,0 +1,39 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid blue;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: aquamarine;
+}
+
+h4 {
+    color: aqua;
+}
+
+h3 {
+    color: aqua;
+}
+
+h2 {
+    color: aqua;
+}
+
+h5 {
+    color: aqua;
+}
